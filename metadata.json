@@ -1,0 +1,6 @@
+{
+  "name": "Afrilab Reports",
+  "description": "تطبيق متطور لقراءة أوزان العينات من نظام Afrilab وتصديرها تلقائياً إلى ملفات Word وتنسيقها بشكل منظم وحفظها تلقائياً في قاعدة بيانات محلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
